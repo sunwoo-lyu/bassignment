@@ -9,6 +9,6 @@ this application runs with
 
   
 # TEST <br>
-the file you can test the request functions is located in 
+the file you can test the required functions is located in 
 - src/test/java/com/assignment/bearassignment/AtmOperationsTests.java
 
