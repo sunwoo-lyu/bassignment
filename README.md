@@ -3,7 +3,8 @@
 # Environment <br>
 
 this application runs with
-- SpringBoot 2.7.10
+- spring-boot 2.7.10
+- gradle-7.6.1
 - java 11
 
   
