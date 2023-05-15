@@ -1,5 +1,3 @@
-# Assignment Description
-
 # Environment <br>
 
 this application runs with
